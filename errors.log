@@ -1,0 +1,4 @@
+
+[FILE EXTENSION NOT ALLLOWED]: .DS_Store
+[FILE EXTENSION NOT ALLLOWED]: Test Video copy 2.png
+[File failed upload] excluded.mp4 - ERROR: Unable to initiate an upload. [Error: {"error":"You’ve hit your maximum number of uploads for today. Go to https://vimeo.com/upgrade to get more.","link":null,"developer_message":"Basic users are limited to 10 uploads per day.","error_code":4104}]
